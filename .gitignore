@@ -1,0 +1,9 @@
+env
+__pycache__
+.dccache
+.env
+.vscode
+
+app/__pycache__
+config/__pycache__
+db.sqlite3
